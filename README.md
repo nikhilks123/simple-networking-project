@@ -46,9 +46,13 @@ This project involves creating and configuring a network with two subnets using 
 2. **Configure Devices**:
    - Assign IP addresses and subnet masks to each device.
    - Configure routing to ensure connectivity between the subnets.
+   - ![image](https://github.com/user-attachments/assets/7e2c5235-97b7-43a0-8c08-794f11ff0588)
+
 
 3. **Testing**:
    - Use ping and other network testing tools to verify connectivity within and between the subnets.
+   - ![image](https://github.com/user-attachments/assets/1eb0c199-18bc-4c26-846a-192e6ab5590b)
+
 
 ## Results and Analysis
 - Both subnets are correctly configured and devices can communicate within their respective subnets and across subnets.
